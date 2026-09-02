@@ -24,4 +24,3 @@ print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
 
-#-git Day 2 Python: "Variables"
