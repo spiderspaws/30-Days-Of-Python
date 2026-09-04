@@ -1,0 +1,7 @@
+name = "Ren"
+greeting = f"Hello, {name}. Welcome to Python."
+welcome = f"{name}, welcome to Python."
+
+print(len(welcome)) 
+print(welcome.upper())
+print(greeting)
